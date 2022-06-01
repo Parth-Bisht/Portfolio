@@ -28,11 +28,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${ANTHRO})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+              <span className="text-[18px] font-bold text-white ">
+                Inspiration from an International e-commerce website where you can buy different products.
               </span>
-              <div className="pt-8 text-center">
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> React.JS | Javascript | Node</p>
+              <div className="pt-3 text-center">
                 <a href="https://incomparable-sorbet-96eaba.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -51,11 +52,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${DINO})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                JAVASCRIPT Application
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+            <span className="text-[18px] font-bold text-white ">
+                A game inspired from dragon game which we play in our chrome browser but with a little twist. User can also make his own highscores.
               </span>
-              <div className="pt-8 text-center">
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> CSS | Javascript | HTML</p>
+              <div className="pt-3 text-center">
                 <a href="https://heroic-peony-3ab984.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -74,11 +76,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${GROWW})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                E-commerce Application
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+            <span className="text-[18px] font-bold text-white ">
+                Inspiration from a stock purchasing web-application where you can buy and sell stocks.
               </span>
-              <div className="pt-8 text-center">
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> HTML | CSS | Javascript | Node</p>
+              <div className="pt-3 text-center">
                 <a href="https://astounding-empanada-72ca7f.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -97,11 +100,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${YOUTUBE})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Youtube Clone
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+            <span className="text-[18px] font-bold text-white ">
+              A popular web-application to watch videos online without any advertisment
               </span>
-              <div className="pt-8 text-center">
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> HTML | CSS | Javascript | Node</p>
+              <div className="pt-3 text-center">
                 <a href="https://determined-beaver-13d0cf.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -120,11 +124,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${TIC})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-               </span>
-              <div className="pt-8 text-center">
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+            <span className="text-[18px] font-bold text-white ">
+                A game using React.JS where user have options to clear history and user can save his scores also.
+              </span>
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> React.JS | Node</p>
+              <div className="pt-3 text-center">
                 <a href="https://stellar-cassata-07aaf4.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
@@ -143,11 +148,12 @@ const Work = () => {
             style={{ backgroundImage: `url(${TXTUTILS})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+            <div className="opacity-0 group-hover:opacity-100 px-2">
+            <span className="text-[18px] font-bold text-white ">
+                A utility application where user can count the number of words and can play with text.
               </span>
-              <div className="pt-8 text-center">
+              <p className='pt-3'> <span className="text-pink-400 font-bold">Tech-Stack: </span> React.JS | Routing | Node</p>
+              <div className="pt-3 text-center">
                 <a href="https://benevolent-jelly-ba68a8.netlify.app/" target='_blank'>
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo

@@ -1,5 +1,5 @@
 import React from "react";
-import Logo1 from '../assets/logo1.jpg'
+import Logo1 from '../assets/photo.jpg'
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
 
@@ -27,7 +27,7 @@ const Home = () => {
           </Link>
         </div>
       <div className='hidden lg:flex absolute right-[55px]'>
-          <img src={Logo1} alt="" style={{width:"300px",borderRadius:"50%"}} />
+          <img src={Logo1} alt="" className="w-[300px] rounded-full" />
       </div>
       </div>
     </div>

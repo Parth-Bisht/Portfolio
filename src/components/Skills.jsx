@@ -10,6 +10,7 @@ import TAILWIND from '../assets/tailwind.png';
 import TYPESCRIPT from '../assets/typescript.png';
 import REDUX from '../assets/redux.png';
 import BOOT from '../assets/bootstrap.png';
+import EXPRESS from '../assets/express.png';
 
 const Skills = () => {
   return (
@@ -63,6 +64,10 @@ const Skills = () => {
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
                 <img className='w-20 mx-auto' src={BOOT} alt="HTML icon" />
                 <p className='my-4'>BOOTSTRAP</p>
+            </div>
+            <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
+                <img className='w-20 mx-auto' src={EXPRESS} alt="EXPRESS icon" />
+                <p className='my-4'>EXPRESS</p>
             </div>
         </div>
     </div>

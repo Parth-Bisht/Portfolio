@@ -164,7 +164,7 @@ const Work = () => {
               </p>
               <div className="flex flex-row pt-8 pb-4 justify-between w-full text-gray-500">
                 <a
-                  href="https://incomparable-sorbet-96eaba.netlify.app/"
+                  href="https://anthropology-clone.netlify.app/"
                   target="_blank"
                 >
                   <button className="flex flex-row  justify-around  w-[80px] text-white hover:bg-[#1b3050] rounded-xl bg-[#0a192f] ">
